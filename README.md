@@ -1,4 +1,4 @@
-# purchases-kmp
+# payblast-purchases-kmp
 
 Payblast Kotlin Multiplatform purchases SDK
 
